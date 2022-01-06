@@ -1,4 +1,5 @@
 
+
 /* 
 
     You can write your own styles here...
@@ -10,3 +11,18 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.pretty {
+   justify-content: center;
+   display: flex;
+
+};
+
+.digit {
+    height: 200px;
+    width: 200px;
+    background-color:black;
+    color: #fff;
+    padding: 10px;
+    border: solid 3px grey;
+    margin: 0
+};
